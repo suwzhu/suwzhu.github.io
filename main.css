@@ -21,12 +21,12 @@ body {
 }
 
 .container a:link, .container a:visited {
-  color: #767676;
+  color: #268bd2;
   text-decoration: none;
 }
 
 .container a:hover, .container a:active {
-  color: #383838;
+  color: #1a6193;
   text-decoration: none;
   outline: none;
 }
@@ -200,13 +200,13 @@ small {
 
 a.btn:link, a.btn:visited {
   font-size: 13px;
-  color: #383838;
-  text-decoration: underline;
+  color: #268bd2;
+  text-decoration: none;
 }
 
 a.btn:hover, a.btn:active {
   font-size: 13px;
-  color: #767676;
+  color: #1a6193;
   text-decoration: none;
   outline: none;
 }
