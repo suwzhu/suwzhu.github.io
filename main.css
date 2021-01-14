@@ -35,7 +35,13 @@
   }
   a.btn,
   a.btn:focus {
-    font-size: 14px;
+    font-size: 15px;
+  }
+  dt {
+    font-size: 16px;
+  }
+  dd {
+    font-size: 15px;
   }
 }
 @media screen and (min-width: 1000px) {
@@ -85,7 +91,13 @@
   }
   a.btn,
   a.btn:focus {
-    font-size: 11px;
+    font-size: 12px;
+  }
+  dt {
+    font-size: 13px;
+  }
+  dd {
+    font-size: 12px;
   }
 }
 
@@ -111,12 +123,12 @@ body{
 }
 
 .container a:link, .container a:visited {
-  color: #268bd2;
+  color: #1e6ea7;
   text-decoration: none;
 }
 
 .container a:hover, .container a:active {
-  color: #1a6193;
+  color: #0f3652;
   text-decoration: none;
   outline: none;
 }
@@ -163,7 +175,7 @@ ul#topnav li {
 ul#topnav li a {
   display: inline-block;
   width: 120px;
-  color: #268bd2;
+  color: #1e6ea7;
   text-align: center;
   text-decoration: none;
   font-size: 18px;
@@ -173,7 +185,7 @@ ul#topnav li a {
 }
 
 ul#topnav a:hover {
-  color: #1a6193;
+  color: #0f3652;
   border-color: transparent;
   /*border-color: #bebebe;*/
   text-decoration: none;
@@ -290,13 +302,13 @@ small {
 
 a.btn:link, a.btn:visited {
   font-size: 13px;
-  color: #268bd2;
+  color: #1e6ea7;
   text-decoration: none;
 }
 
 a.btn:hover, a.btn:active {
   font-size: 13px;
-  color: #1a6193;
+  color: #0f3652;
   text-decoration: none;
   outline: none;
 }
