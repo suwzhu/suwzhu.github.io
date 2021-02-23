@@ -270,7 +270,7 @@ ul#work li p.head {
 /*publication table*/
 
 dt {
-  font-weight: normal;
+  font-weight: bold;
   text-decoration: none;
   padding: 0 0 4 0;
   margin-left: 6px;
